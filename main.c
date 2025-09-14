@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
         printf("Decoding option is selected\n");
         if(read_and_validate_decode_args(argv,&decInfo) == e_success)
         {
-            printf("Reading and validating decode argument successful");
+            printf("Reading and validating decode argument successful\n");
             if(do_decoding(&decInfo)==e_success)
             {
                 printf("Decoding successful\n");

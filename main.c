@@ -1,3 +1,8 @@
+/* 
+
+THIS CODE IS WRITTEN BY ADHISH V AS A PART OF MY PROJECT IN EMERTXE, EMBEDEDDED SYSTEM COURSE
+
+*/
 #include "encode.h"
 #include "decode.h"
 
